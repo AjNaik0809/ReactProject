@@ -50,6 +50,7 @@ namespace dotEmployeeReactProject
 
             app.UseRouting();
             
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
