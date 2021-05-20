@@ -49,6 +49,7 @@ namespace dotEmployeeReactProject
             app.UseSpaStaticFiles();
 
             app.UseRouting();
+            
 
             app.UseEndpoints(endpoints =>
             {
